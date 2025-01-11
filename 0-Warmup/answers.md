@@ -16,7 +16,7 @@
    - [GitHub Repository Link](https://github.com/tac786/CS283)
 
 4. **Briefly describe what you want to get out of this class:**
-   - I want to improve my understanding of data structures and algorithms and learn to apply them effectively to solve computational problems.
+   - I want to improve my understanding of data structures and algorithms. Also, I want to learn how to apply them effectively to solve computational problems.
 
 5. **Briefly describe any concerns you might be having with being successful in this class (if any):**
-   - My primary concern is managing time effectively between different assignments and ensuring I can practice coding sufficiently to internalize concepts.
+   - My primary concern is managing time effectively between different assignments. I also want to ensure I can practice coding sufficiently to become more familiar with the concepts.
