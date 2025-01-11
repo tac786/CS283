@@ -1,4 +1,4 @@
-l# Answers to Warmup Questions
+# Answers to Warmup Questions
 
 1. **Select with an X the platform you will be using for your course deliverables:**
    - [ ] drexel's tux cluster
