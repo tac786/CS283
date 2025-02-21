@@ -34,10 +34,10 @@
 
 - Find and describe three commonly used signals (e.g., SIGKILL, SIGTERM, SIGINT). What are their typical use cases?
 
-    > **Answer**:  
-    - **SIGKILL**: Immediately terminates a process and cannot be caught or ignored. Used when a process must be forcibly stopped.  
-    - **SIGTERM**: Gracefully asks a process to terminate, allowing it to clean up resources before exiting. Used for standard process shutdowns.  
-    - **SIGINT**: Sent when a user presses `Ctrl+C` in a terminal, interrupting the process. Often used to stop running programs interactively.  
+    > **Answer:**  
+    > - **SIGKILL**: Immediately terminates a process and cannot be caught or ignored. Used when a process must be forcibly stopped.  
+    > - **SIGTERM**: Gracefully asks a process to terminate, allowing it to clean up resources before exiting. Used for standard process shutdowns.  
+    > - **SIGINT**: Sent when a user presses `Ctrl+C` in a terminal, interrupting the process. Often used to stop running programs interactively. 
 
 - What happens when a process receives SIGSTOP? Can it be caught or ignored like SIGINT? Why or why not?
 
