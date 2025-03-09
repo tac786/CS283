@@ -1,7 +1,7 @@
 #ifndef __DSHLIB_H__
 #define __DSHLIB_H__
 #include <stdbool.h>
-#include <errno.h>  // If you use errno-based error handling
+#include <errno.h>
 
 //Constants for command structure sizes
 #define EXE_MAX 64
